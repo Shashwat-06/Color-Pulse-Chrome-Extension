@@ -20,7 +20,7 @@ function App() {
     <div className="h-full w-full p-3 ">
       <div className="flex justify-center w-full mt-2">
         <h1 className="text-xl text-orange-500 font-bold mb-2 font-serif">
-          Color Pulse
+          Color-Pulse
         </h1>
       </div>
 
