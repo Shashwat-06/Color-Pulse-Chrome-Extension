@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "ColorPulse",
+  "description": "Color Pulse lets you instantly change the background color of any webpage. Pick a color and apply it with one click for better focus, readability, or aesthetics.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
